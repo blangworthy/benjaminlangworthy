@@ -7,11 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
 title                    : "Benjamin Langworthy / Personal Website"
-=======
 title                    : "Benjamin Langworthy / Personal website"
->>>>>>> 4c8972792a0f3fa527f5a96ee4ce3e803678815f
 title_separator          : "-"
 name                     : &name "Benjamin Langworthy"
 description              : &description "Personal Website"
